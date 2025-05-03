@@ -52,14 +52,7 @@ A responsive blog preview card built using **semantic HTML** and **modern CSS**,
 
 ### 📂 Folder Structure
 
-/blog-preview-card
-│
-├── index.html
-├── styles.css
-├── desktop-design.jpg
-├── mobile-design.jpg
-├── active-states.jpg
-└── README.md
+<pre lang="md"> ```text /blog-preview-card │ ├── index.html ├── styles.css ├── desktop-design.jpg ├── mobile-design.jpg ├── active-states.jpg └── README.md ``` </pre>
 
 ---
 
