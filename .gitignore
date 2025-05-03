@@ -14,3 +14,31 @@
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 .prettierignore
+
+
+# Mac system files
+Thumbs.db
+
+# Node modules (if you later use npm tools like Sass, PostCSS, etc.)
+node_modules/
+
+# Build/dist directories
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files (just in case)
+.env
+.env.local
+.env.*.local
+
+# VS Code settings
+.vscode/
+
+# Cache
+.cache/
+*.log
