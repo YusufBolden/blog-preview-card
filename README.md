@@ -68,19 +68,20 @@ A responsive blog preview card built using **semantic HTML** and **modern CSS**,
     ├── mobile-design.jpg
     └── active-states.jpg
 ```
+
 ---
 
-#### 🖥️ Desktop
+### 🖥️ Desktop Design
 
-![Desktop Design](.design/desktop-design.jpg)
+![Desktop Design](./design/desktop-design.jpg)
 
-#### 📱 Mobile
+### 📱 Mobile Design
 
-![Mobile Design](.design/mobile-design.jpg)
+![Mobile Design](./design/mobile-design.jpg)
 
-#### 🖱️ Active State
+### 🖱️ Active State
 
-![Active State](.design/active-states.jpg)
+![Active State](./design/active-states.jpg)
 
 ---
 
